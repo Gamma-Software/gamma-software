@@ -7,7 +7,7 @@ My go to repos:\
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/7y5dy0och7lgzrlte82h7ubes)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7y5dy0och7lgzrlte82h7ubes&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7y5dy0och7lgzrlte82h7ubes&redirect=true)
 
 ---
 ### 🐱My Github stats:
