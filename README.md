@@ -4,6 +4,11 @@ My go to repos:\
 [CapsuleScripts](https://github.com/Gamma-Software/CapsuleScripts)\
 [HomeAssistant](https://github.com/Gamma-Software/HomeAssistantConfig)
 
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/7y5dy0och7lgzrlte82h7ubes)
+
 ---
 ### 🐱My Github stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gamma-software&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
