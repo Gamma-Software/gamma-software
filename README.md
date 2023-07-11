@@ -1,8 +1,18 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+- 🔭 I’m currently working on [ChatbotX](https://github.com/Gamma-Software/ChatbotX)
+- 🌱 I’m currently learning [LangChain](https://github.com/hwchase17/langchain)
+- 🤔 I’m looking for help with [ChatbotX](https://github.com/Gamma-Software/ChatbotX)
+- 💬 Ask me about collaborating, AI, Autonomous Driving
+- 📫 How to reach me: [valentin.rudloff.perso@gmail.com](valentin.rudloff.perso@gmail.com)
+<!--
+- ⚡ Fun fact: ...
+-->
+
 My go to repos:\
 [CapsuleScripts](https://github.com/Gamma-Software/CapsuleScripts)\
 [HomeAssistant](https://github.com/Gamma-Software/HomeAssistantConfig)
+[ChatbotX](https://github.com/Gamma-Software/ChatbotX)
 
 
 ### Spotify Playing 🎧
