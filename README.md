@@ -11,7 +11,7 @@
 
 My go to repos:\
 [CapsuleScripts](https://github.com/Gamma-Software/CapsuleScripts)\
-[HomeAssistant](https://github.com/Gamma-Software/HomeAssistantConfig)
+[HomeAssistant](https://github.com/Gamma-Software/HomeAssistantConfig)\
 [AppifyAi](https://github.com/Gamma-Software/AppifyAi)
 
 
