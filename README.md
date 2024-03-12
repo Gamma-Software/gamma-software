@@ -1,9 +1,8 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 🔭 I’m currently working on [AppifyAi](https://github.com/Gamma-Software/AppifyAi)
+- 🔭 I’m currently working on my startup [AIOP]([https://github.com/Gamma-Software/AppifyAi](https://github.com/Gamma-Software/aiop-docs))
 - 🌱 I’m currently learning [LangChain](https://github.com/hwchase17/langchain)
-- 🤔 I’m looking for help with [AppifyAi](https://github.com/Gamma-Software/AppifyAi)
-- 💬 Ask me about collaborating, AI, Autonomous Driving
+- 💬 Ask me about collaborating, release managment, AI, Autonomous Driving
 - 📫 How to reach me: [valentin.rudloff.perso@gmail.com](valentin.rudloff.perso@gmail.com)
 <!--
 - ⚡ Fun fact: ...
@@ -13,6 +12,7 @@ My go to repos:\
 [CapsuleScripts](https://github.com/Gamma-Software/CapsuleScripts)\
 [HomeAssistant](https://github.com/Gamma-Software/HomeAssistantConfig)\
 [AppifyAi](https://github.com/Gamma-Software/AppifyAi)
+[AIOP]([https://github.com/Gamma-Software/AppifyAi](https://github.com/Gamma-Software/aiop-docs))
 
 
 ### Spotify Playing 🎧
